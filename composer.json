@@ -1,0 +1,23 @@
+{
+  "name": "xu42/php-utils",
+  "description": "php-utils",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "utils",
+    "utilities"
+  ],
+  "homepage": "https://github.com/xu42/php-utils",
+  "authors": [
+    {
+      "name": "xu42",
+      "email": "xu42.cn@gmail.com",
+      "homepage": "https://xu42.cn"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Xu42\\Utilities\\": "src/"
+    }
+  }
+}
